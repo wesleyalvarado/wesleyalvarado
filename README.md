@@ -8,7 +8,7 @@ I focus on creating scalable solutions that bridge modern AI capabilities with e
 - **Programming:** TypeScript, JavaScript, Python, R, C#, C/C++
 - **AI/ML:** TensorFlow, PyTorch, Hugging Face, OpenCV, Multimodal LLMs, XGBoost, scikit-learn
 - **Data & Analytics:** MongoDB, SQL, Snowflake, Alteryx, Tableau, Figma
-- **Web & DevOps:** Angular, GraphQL, Node.js, Docker, Git, Azure DevOps
+- **Web & DevOps:** Angular, GraphQL, Git, Azure DevOps, AWS
 
 ### 🌱 **Current Focus**
 - Building and deploying ML models for enterprise supply chain optimization
