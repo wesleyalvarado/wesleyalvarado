@@ -1,33 +1,29 @@
-**Hello, I'm Wesley** 👋
+# **Hello, I'm Wesley** 👋
 
 ### 🚀 **About Me**
+- Manager of Data Science and Analytics with expertise in AI/ML, enterprise development, and data solutions. 
+I focus on creating scalable solutions that bridge modern AI capabilities with enterprise needs.
 
-- I'm a passionate software developer with a keen interest in Machine Learning and Artifical Intelligence. 
-I love to create elegant solutions to complex problems and am always eager to learn new technologies.
+### 🛠 **Technical Skills**
+- **Programming:** TypeScript, JavaScript, Python, R, C#, C/C++
+- **AI/ML:** TensorFlow, PyTorch, Hugging Face, OpenCV, Multimodal LLMs, XGBoost, scikit-learn
+- **Data & Analytics:** MongoDB, SQL, Snowflake, Alteryx, Tableau, Figma
+- **Web & DevOps:** Angular, GraphQL, Node.js, Docker, Git, Azure DevOps
 
-### 🛠 **Skills**
+### 🌱 **Current Focus**
+- Building and deploying ML models for enterprise supply chain optimization
+- Developing full-stack data platforms integrating ML capabilities
+- Architecting scalable solutions using clean architecture principles
+- Leading technical design and implementation of data-intensive applications
 
-- Languages: Python, R, JavaScript
-- Frameworks: Angular, React
-- Tools: Git, Azure, Tableau, Alteryx, MS SSIS
-- Databases: PostgresSQL, Oracle, Teradata SQL, MS SQL
-
-### 🌱 **I'm currently learning**
-
-- Machine Learning: Diving deep into neural networks and deep learning algorithms using TensorFlow and PyTorch.
-- Angular: Exploring advanced concepts in Angular for building robust, scalable front-end applications.
-- C# Backend Development: Enhancing my skills in building efficient, secure APIs using ASP.NET Core.
-- Full-Stack Integration: Focusing on seamlessly connecting Angular frontends with C# backends for comprehensive web solutions.
-
-### 💼 **Work Experience**
-
-- Manager, Data Science and Analytics at RTX (2021 - Present)
+### 💼 **Experience**
+- Manager, Data Science and Analytics at Raytheon Technologies (2021 - Present)
 - Senior Consultant at Deloitte Consulting (2014 - 2021)
 
 ### 🎓 **Education**
+- M.S. in Artificial Intelligence and Machine Learning from Colorado State University Global (2024)
+  - Distinguished Scholar | GPA: 4.0
+- B.S. in Mathematics from The University of North Texas (2011)
 
-- Bachelor of Science in Mathematics from The University of North Texas (2011)
-
-### 📫 **How to reach me**
-
-- LinkedIn: [Wesley Alvarado](https://www.linkedin.com/in/wesalvarado/)
+### 📫 **Connect**
+- [LinkedIn](https://www.linkedin.com/in/wesalvarado/)
